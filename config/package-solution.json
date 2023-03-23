@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "practice-sharepoint-client-side-solution",
+    "id": "e393987e-5b27-4378-8558-cb7a22c5aaac",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "practice-sharepoint description"
+      },
+      "longDescription": {
+        "default": "practice-sharepoint description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "practice-sharepoint Feature",
+        "description": "The feature that activates elements of the practice-sharepoint solution.",
+        "id": "8e21c830-08c4-4448-a7c6-8d8ca05c33f9",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/practice-sharepoint.sppkg"
+  }
+}

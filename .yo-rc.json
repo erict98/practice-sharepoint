@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "nodeVersion": "16.15.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "practice-sharepoint",
+    "libraryId": "e393987e-5b27-4378-8558-cb7a22c5aaac",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "practice-sharepoint",
+    "solutionShortDescription": "practice-sharepoint description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
